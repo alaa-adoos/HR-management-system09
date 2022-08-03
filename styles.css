@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  footer a{
+    position:absolute;
+    margin-top: 100px;
+  }
+  table,td,th{
+  position: relative;
+  margin-top: 50px;
+    border:1px solid;
+  }
