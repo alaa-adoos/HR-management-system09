@@ -21,3 +21,8 @@ ul {
   margin-top: 50px;
     border:1px solid;
   }
+  footer{
+  width: 200px;
+  position:fixed;
+  margin-top:35%;
+  }
